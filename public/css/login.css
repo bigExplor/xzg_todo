@@ -1,0 +1,25 @@
+body {
+	background: url(../images/login_bg.jpg);
+}
+
+.login {
+	width: 500px;
+	background: rgba(0, 0, 0, .6);
+	border-radius: 50px;
+	position: absolute;
+	top: 240px;
+	left: 480px;
+	padding: 50px;
+}
+
+.control-label {
+	color: white;
+	font-size: 16px;
+}
+
+#tip {
+	color: orange;
+	position: absolute;
+	top: 25px;
+	left: 123px;
+}
